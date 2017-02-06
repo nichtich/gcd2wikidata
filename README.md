@@ -2,6 +2,8 @@
 
 **Wikidata property [P3589](https://www.wikidata.org/wiki/Property:P3589) has been created to connect Wikidata items with GCD series IDs**
 
+Data has been [imported into mix'n'match](https://tools.wmflabs.org/mix-n-match/?mode=catalog&catalog=378&show_autoq=1) to simplify mapping -- *please try out mapping with this tool!*
+
 GCD dumps (MySQL and PostgreSQL) can be downloaded from
 <http://www.comics.org/download/> after login.
 
